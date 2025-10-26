@@ -1,6 +1,6 @@
 {
   "name": "web-speed-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool to test device system performance like RAM, CPU count, etc.",
   "main": "webSpeed.js",
   "bin": {
