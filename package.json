@@ -1,0 +1,17 @@
+{
+  "name": "web-speed-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool to test device system performance like RAM, CPU count, etc.",
+  "main": "webSpeed.js",
+  "bin": {
+    "webspeed": "./webSpeed.js"
+  },
+  "keywords": [
+    "speed",
+    "cli",
+    "system-info"
+  ],
+  "author": "Muhammad Ramshad",
+  "license": "MIT",
+  "type": "commonjs"
+}
